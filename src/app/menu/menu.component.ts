@@ -10,6 +10,11 @@ export class MenuComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+
+    function teste(){
+      console.log("adicionou");
+    }
+
   }
 
 }
